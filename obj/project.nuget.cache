@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5RYHXJNcWIo3yYRjDwIszo5KMpDTP3K7/q8ElrzMLjip3fUAZNw+1wf240MANfBEQKep5DbDFagdXGJVMlBBQ==",
+  "success": true,
+  "projectFilePath": "G:\\MODULO2\\asp net\\MVCSite\\MVCSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Monalisa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
