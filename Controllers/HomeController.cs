@@ -6,16 +6,16 @@ namespace MVCSite.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
 
         public IActionResult Index()
         {
-            return View();
+            HomeModel home = new HomeModel
+            {
+                Nome = "Nathalia Monalisa",
+                Email = "nathaliamonalisa150@gmail.com"
+            };
+
+            return View(home);
         }
 
         public IActionResult Privacy()
